@@ -3,7 +3,7 @@
 
 #incldue <stdio.h>
 
-void foo();
+void foo(int m);
 void goo();
 
 #endif
